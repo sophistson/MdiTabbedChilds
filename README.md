@@ -1,6 +1,8 @@
 # MdiTabbedChilds
 Easy way to use a MDI Windows Form application with Child-Forms in TabControls. No limits in sublevels. 
 
+It is written in VB .NET uses FW 4.6. 
+
 This is my first "solution" with .NET. Please be genereous. I am using VB .NET only since 2 weeks. April 2017 But I think this project template can be really used and it should be easy for advanced coders to implement better code in this frame.
 Getting Started
 
